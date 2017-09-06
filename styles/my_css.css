@@ -1,0 +1,407 @@
+@charset "utf-8";
+
+#st{
+position:fixed;
+top:0px;
+width:125px;
+height:100%;
+}
+#CoSt{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0;
+	margin-bottom:0;
+	width:125px;
+	height:100%;
+	border-width: 0px;
+	border-style: solid;}
+#sdbf {
+	float:left;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	margin-bottom:0;
+	width:125px;
+	height:20%;
+	border-width: 0px;
+	border-style: solid;
+}
+#ssd{
+	float:left;
+	margin-left:20px;
+	margin-right:0;
+	margin-top:0;
+	margin-bottom:0;
+	width:125px;
+	height:100%;
+	border-width: 0px;
+	border-style: solid;
+	}
+#ssd a{
+	
+	color:#999;
+	text-decoration:none;
+	font-weight:bold;
+	line-height:70px;
+	width:125px;
+	height:10%;
+	float:left;
+	display:block;
+	font-family: 'Pavanam', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+	}
+#ssd a:hover{
+	color:#FFF;
+}
+	
+body{margin:0; padding:0;}
+
+#container {
+	width: 100%;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	margin-left:auto;
+	margin-right:auto;
+}
+#dvone {
+	background-color: #282928;
+	float: left;
+	height: 900px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#navbar {
+	float: left;
+	height: 100px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#logo {
+	background-image: url(../images/logo.jpg);
+	float: left;
+	height: 100px;
+	width: 250px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#links {
+	float: left;
+	height: 100px;
+	width: 750px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#links a{
+	text-decoration:none;
+	color:#999;
+	font-weight:normal;
+	font-size:20px;
+	background-color:#282928;
+	width:125px;
+	height:100px;
+	display:block;
+	float:left;
+	text-align:center;
+	line-height:100px;
+	font-family: 'Pavanam', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+	
+	
+}
+#links a:hover{
+	color:#FFF;
+}
+#emptydvone {
+	float: left;
+	height: 100px;
+	width: 600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#photoone {
+	background-image: url(../images/dv1.jpg);
+	float: left;
+	height: 800px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#emptydvtwo {
+	float: left;
+	height: 450px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#bottondvone {
+	float: left;
+	height: 100px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+.button {
+    background-color: #353636;
+    border: none;
+	color:#999;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 32px;
+	border: 2px solid #999;
+}
+.button:hover {
+    background-color: #999; 
+    color: black;
+}
+#sepone {
+	float: left;
+	height: 100px;
+	width: 200px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#dvtwo {
+	background-color: #FFF;
+	float: left;
+	height: 900px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	background-image:url(../images/dv2.jpg);
+}
+#dvthree {
+	background-image: url(../images/dv3.jpg);
+	float: left;
+	height: 800px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#sepdvthree {
+	float: left;
+	height: 200px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#sepdvthreehh {
+	float: left;
+	height: 600px;
+	width: 1435px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#sepdvthreetwo {
+	float: left;
+	height: 600px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#arrowdvthree {
+	float: left;
+	height: 600px;
+	width: 165px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#dvfour {
+	background-image: url(../images/dv4.jpg);
+	float: left;
+	height: 900px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#dvfoursepone {
+	float: left;
+	height: 700px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#dvfourseptwo {
+	float: left;
+	height: 200px;
+	width: 1250px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#addtocart {
+	float: left;
+	height: 200px;
+	width: 350px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+.buttontwo {
+    background-color: #f9f9f9;
+    border: none;
+	color:#282928;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 32px;
+	border: 2px solid #000;
+}
+.buttontwo:hover {
+    background-color: #282928; 
+    color: #FFF;
+}
+#dvfive {
+	background-image: url(../images/dv5.jpg);
+	clear: none;
+	float: left;
+	height: 900px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#dvfivesepone {
+	float: left;
+	height: 400px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#dvfiveformone {
+	float: left;
+	height: 200px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#dvfiveseptwo {
+	float: left;
+	height: 100px;
+	width: 600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#dvfiveseptwoo {
+	float: left;
+	height: 100px;
+	width: 600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#formone {
+	float: left;
+	height: 100px;
+	width: 400px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	font-family: 'Pavanam', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+	color:#8d8e8e;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #5b5c5c;
+	background:none;
+}#sepdvfive {
+	float: left;
+	height: 50px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#subbotten {
+	float: left;
+	height: 100px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#footer {
+	float: left;
+	height: 150px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#slider {
+	float: left;
+	height: 900px;
+	width: 1600px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#iframea{
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	padding:0;
+}
